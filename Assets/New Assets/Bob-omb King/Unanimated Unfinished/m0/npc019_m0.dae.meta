@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: b9fbad78062b5554f844955b9fd8e602
+timeCreated: 1499524643
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: attach_L_hand
+    100002: attach_R_hand
+    100004: billboard
+    100006: eye_angry
+    100008: eye_damage
+    100010: eye_normal
+    100012: L_ankle
+    100014: L_arm_1
+    100016: L_arm_2
+    100018: L_finger_1
+    100020: L_finger_2
+    100022: L_leg_1
+    100024: L_leg_2
+    100026: L_mustache
+    100028: L_thumb_1
+    100030: L_thumb_2
+    100032: L_toe
+    100034: L_wrist
+    100036: mesh0000
+    100038: mesh0001
+    100040: mesh0002
+    100042: mesh0003
+    100044: mesh0004
+    100046: mesh0005
+    100048: mesh0006
+    100050: //RootNode
+    100052: origin
+    100054: R_ankle
+    100056: R_arm_1
+    100058: R_arm_2
+    100060: R_finger_1
+    100062: R_finger_2
+    100064: R_leg_1
+    100066: R_leg_2
+    100068: R_mustache
+    100070: R_thumb_1
+    100072: R_thumb_2
+    100074: R_toe
+    100076: R_wrist
+    100078: skl_root
+    400000: attach_L_hand
+    400002: attach_R_hand
+    400004: billboard
+    400006: eye_angry
+    400008: eye_damage
+    400010: eye_normal
+    400012: L_ankle
+    400014: L_arm_1
+    400016: L_arm_2
+    400018: L_finger_1
+    400020: L_finger_2
+    400022: L_leg_1
+    400024: L_leg_2
+    400026: L_mustache
+    400028: L_thumb_1
+    400030: L_thumb_2
+    400032: L_toe
+    400034: L_wrist
+    400036: mesh0000
+    400038: mesh0001
+    400040: mesh0002
+    400042: mesh0003
+    400044: mesh0004
+    400046: mesh0005
+    400048: mesh0006
+    400050: //RootNode
+    400052: origin
+    400054: R_ankle
+    400056: R_arm_1
+    400058: R_arm_2
+    400060: R_finger_1
+    400062: R_finger_2
+    400064: R_leg_1
+    400066: R_leg_2
+    400068: R_mustache
+    400070: R_thumb_1
+    400072: R_thumb_2
+    400074: R_toe
+    400076: R_wrist
+    400078: skl_root
+    4300000: mesh0000
+    4300002: mesh0001
+    4300004: mesh0002
+    4300006: mesh0003
+    4300008: mesh0004
+    4300010: mesh0005
+    4300012: mesh0006
+    9500000: //RootNode
+    13700000: mesh0000
+    13700002: mesh0001
+    13700004: mesh0002
+    13700006: mesh0003
+    13700008: mesh0004
+    13700010: mesh0005
+    13700012: mesh0006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
